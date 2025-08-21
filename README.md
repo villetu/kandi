@@ -1,4 +1,5 @@
-# kandi
+# Depressio fysiikan, hermoverkkoteorian, dynaamisten systeemien teorian ja kontrolliteorian näkökulmasta
+## Attraktoridynamiikkaa mallintavia animaatioita
 
 Tiedostossa yksi_attraktori.py on koodi kuvia 1 ja 2 vastaaviin animaatioihin. Verkon kouluttamiseen käytetty koodia tiedostossa verkko1_koulutus.py ja vastaava koulutettu verkko tiedostossa verkko1.pth
 
