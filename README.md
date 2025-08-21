@@ -11,5 +11,5 @@ Yllä olevia mallinnuksia voi kokeilla erilaisilla parametreilla, esimerkiksi uu
 
 Tiedostossa kiertorata_attraktori.py on koodi kuvaa 4 vastaavaan animaatioon. Tämän animaation tilan kehitys ei perustu energiamaastoon ja sen parametrejä ei ole tarkoitettu muokattaviksi.
 
-
+#
 Käytetyt kirjastot: numpy, matplotlib, torch
