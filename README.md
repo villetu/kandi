@@ -10,3 +10,6 @@ Tiedostossa kaksi_attraktoria_ulkoinen_stimulaatio.py on koodi kuvaa 5 vastaavaa
 Yllä olevia mallinnuksia voi kokeilla erilaisilla parametreilla, esimerkiksi uudesta alkupisteestä. Myös kaksi_attraktoria_ulkoinen_stimulaatio.py tiedoston alkutilaa voi muuttaa, mutta ulkoisen stimulaation antama "potku" on säädetty tälle tietylle alkupisteelle.
 
 Tiedostossa kiertorata_attraktori.py on koodi kuvaa 4 vastaavaan animaatioon. Tämän animaation tilan kehitys ei perustu energiamaastoon ja sen parametrejä ei ole tarkoitettu muokattaviksi.
+
+
+Käytetyt kirjastot: numpy, matplotlib, torch
